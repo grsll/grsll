@@ -1,4 +1,4 @@
-# 👋 Halo, Saya [Nama Kamu]!
+# 👋 Halo, Saya Yoga Setyawan Purwanto!
 
 <div align="center">
   
@@ -40,7 +40,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.nama = "Nama Kamu"
+        self.nama = "Yoga Setyawan Purwanto"
         self.sekolah = "SMKN 12 Malang"
         self.role = ["Odoo Developer", "Android Developer"]
         self.lokasi = "Malang, Indonesia"
@@ -56,9 +56,9 @@ saya.sapa()
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-url)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoga-setyawan-ab9b98339/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yog_aaa4/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoga.setyawan.work@gmail.com)
   
 </div>
 
