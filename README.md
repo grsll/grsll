@@ -59,12 +59,4 @@ saya.sapa()
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoga.setyawan.work@gmail.com)
   
 </div>
-
----
-
-<div align="center">
-  
-  **"Kode itu seperti humor. Ketika kamu harus menjelaskannya, berarti itu buruk."** 
-  – Cory House -
-  
 </div>
