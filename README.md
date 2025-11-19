@@ -64,8 +64,7 @@ saya.sapa()
 
 <div align="center">
   
-  **"Kode itu seperti humor. Ketika kamu harus menjelaskannya, berarti itu buruk."** – Cory House
-  
-  ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+  **"Kode itu seperti humor. Ketika kamu harus menjelaskannya, berarti itu buruk."** 
+  – Cory House ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
   
 </div>
