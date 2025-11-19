@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Yoga Setyawan Purwanto!
+# 👋 Halo, Saya [Nama Kamu]!
 
 <div align="center">
   
@@ -32,13 +32,25 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📊 Statistik GitHub
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+  
+</div>
 
 ## 🎯 Fokus Saat Ini
 
 ```python
 class Developer:
     def __init__(self):
-        self.nama = "Yoga Setyawan Purwanto"
+        self.nama = "Nama Kamu"
         self.sekolah = "SMKN 12 Malang"
         self.role = ["Odoo Developer", "Android Developer"]
         self.lokasi = "Malang, Indonesia"
@@ -54,9 +66,18 @@ saya.sapa()
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoga-setyawan-ab9b98339/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yog_aaa4/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoga.setyawan.work@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-url)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
   
 </div>
+
+---
+
+<div align="center">
+  
+  **"Kode itu seperti humor. Ketika kamu harus menjelaskannya, berarti itu buruk."** – Cory House
+  
+  ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+  
 </div>
