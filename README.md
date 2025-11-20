@@ -68,16 +68,6 @@ me = Developer()
 me.greet()
 ```
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogasetyawan&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogasetyawan&layout=compact&theme=radical)
-
-</div>
-
 ## 📫 Let's Connect!
 
 <div align="center">
